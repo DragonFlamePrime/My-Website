@@ -16,7 +16,7 @@ padding-left: 1rem;
 }
 h1 {
 font-family:monospace;
-font-size: extralarge;
+font-size: x-large;
 color: red;
 }
 h2 {
@@ -25,29 +25,29 @@ font-size: medium;
 color: orange;
 }
 p {
-font-family: timesnewroman;
+font-family: 'Times New Roman';
 font-size: medium;
 color: #b80f0f;
 }
 h3 {
 font-family:monospace ;
-font-size: normal;
+font-size: 1.17em;
 color: darkred;
 }
 h4 {
-font-family: ;
-font-size: ;
-color: ;
+font-family: initial;
+font-size: initial;
+color: initial;
 }
 h5 {
-font-family: ;
-font-size: ;
+font-family: initial;
+font-size: initial;
 color: orange;
 }
 h6 {
-font-family: ;
-font-size: ;
-color: ;
+font-family: initial;
+font-size: initial;
+color: initial;
 }
 .footer-links {
 display: flex;
