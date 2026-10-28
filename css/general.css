@@ -25,12 +25,12 @@ font-size: medium;
 color: orange;
 }
 p {
-font-family: 'Times New Roman';
+font-family: "Times New Roman";
 font-size: medium;
 color: #b80f0f;
 }
 h3 {
-font-family:monospace ;
+font-family: monospace;
 font-size: 1.17em;
 color: darkred;
 }
