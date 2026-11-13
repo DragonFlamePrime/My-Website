@@ -15,6 +15,11 @@ font-family: initial;
 font-size: 1.17em;
 color: red;
 }
+.size-h6 {
+font-family: initial;
+font-size: 0.67em;
+color: red;
+}
 .left {
 float: left;
 padding-left: 1rem;
