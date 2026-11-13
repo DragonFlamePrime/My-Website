@@ -10,6 +10,11 @@ padding-left: 1rem;
 float: right;
 padding-left: 1rem;
 }
+.downloads {
+font-family: initial;
+font-size: 1.17em;
+color: red;
+}
 .left {
 float: left;
 padding-left: 1rem;
@@ -36,8 +41,8 @@ color: darkred;
 }
 h4 {
 font-family: initial;
-font-size: initial;
-color: initial;
+font-size: 1.17em;
+color: red;
 }
 h5 {
 font-family: initial;
@@ -47,7 +52,7 @@ color: orange;
 h6 {
 font-family: initial;
 font-size: initial;
-color: initial;
+color: red;
 }
 .footer-links {
 display: flex;
